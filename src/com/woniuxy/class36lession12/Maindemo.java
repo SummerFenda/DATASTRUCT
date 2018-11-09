@@ -31,7 +31,7 @@ public class Maindemo {
 	int index = dateSearch.indexof();
 	System.out.println(index);
 	
-	
+	System.out.println("summerday");
 		
 	StructSearch <String> StringSearch = new StructSearch <String>();	
 	String str1 = "小赵";
